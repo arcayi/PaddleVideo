@@ -137,3 +137,5 @@ output
 .log.txt
 inference
 
+experimental/tsm/ResNet50_vd_ssld_v2_pretrained.pdparams
+experimental/tsm/ppTSM_k400_uniform_distill.pdparams
